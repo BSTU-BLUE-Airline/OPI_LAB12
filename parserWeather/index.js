@@ -1,7 +1,7 @@
 const puppeteer = require('puppeteer');
 const fs = require('fs');
 
-setInterval(async () => {
+setTimeout(async () => {
     const browser = await puppeteer.launch({ headless: false });
     const page = await browser.newPage();
 
@@ -20,4 +20,4 @@ setInterval(async () => {
     }
 
     await browser.close();
-}, 1800000);
+}, 100);

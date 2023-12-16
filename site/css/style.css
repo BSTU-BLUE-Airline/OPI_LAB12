@@ -22,7 +22,7 @@
   width: 100%;
 }
 .container .header {
-  padding-top: 90px;
+  padding-top: 45px;
   padding-bottom: 200px;
   display: -webkit-box;
   display: -ms-flexbox;
@@ -36,10 +36,9 @@
           align-items: center;
   max-width: 100%;
   width: 100%;
+  min-height: 100vh;
   background: url(/img/fon.jpg);
   background-size: cover;
-  -webkit-clip-path: polygon(50% 0%, 100% 0, 100% 35%, 100% 85%, 84% 95%, 50% 100%, 16% 95%, 0 85%, 0% 35%, 0 0);
-          clip-path: polygon(50% 0%, 100% 0, 100% 35%, 100% 85%, 84% 95%, 50% 100%, 16% 95%, 0 85%, 0% 35%, 0 0);
 }
 .container .header .nav {
   width: 100%;
@@ -116,7 +115,7 @@
   line-height: normal;
 }
 .container .header .section_header {
-  padding-top: 285px;
+  padding-top: 200px;
 }
 .container .header .section_header .header_title {
   color: #FFF;
@@ -320,62 +319,21 @@
   font-weight: 400;
   line-height: normal;
 }
-.container .product .product_text .product_btn {
-  margin-top: 42px;
-}
-.container .product .product_text .product_btn button {
-  border-radius: 40px;
-  background: var(--Caramel, #B85C38);
-  padding: 18px 32px;
-  color: #FFF;
-  font-size: 20px;
-  font-style: normal;
-  font-weight: 700;
-  line-height: normal;
-}
-.container .product .product_card {
+.container .product .product_container {
   border-radius: 8px;
   background: #FFF;
   -webkit-box-shadow: 4px 4px 40px 0px rgba(0, 0, 0, 0.12);
           box-shadow: 4px 4px 40px 0px rgba(0, 0, 0, 0.12);
   max-width: 350px;
-  width: 100%;
+  width: 350px;
   padding-bottom: 50px;
   margin-right: 100px;
 }
-.container .product .product_card .card_image img {
+.container .product .product_container .product_card .card_image img {
   border-top-left-radius: 8px;
   border-top-right-radius: 8px;
   width: 350px;
   height: 250px;
-}
-.container .product .product_card .card_text {
-  padding: 30px;
-}
-.container .product .product_card .card_text .card_title {
-  margin-top: 25px;
-  color: var(--Gray-1, #333);
-  font-size: 30px;
-  font-style: normal;
-  font-weight: 700;
-  line-height: normal;
-}
-.container .product .product_card .card_text .card_subtitle {
-  margin-top: 24px;
-  color: var(--Gray-4, #BDBDBD);
-  font-size: 20px;
-  font-style: normal;
-  font-weight: 400;
-  line-height: normal;
-}
-.container .product .product_card .card_text .card_btn {
-  margin-top: 32px;
-  color: var(--Caramel, #B85C38);
-  font-family: Nunito;
-  font-size: 20px;
-  font-style: normal;
-  font-weight: 400;
-  line-height: normal;
 }
 .container .footer {
   display: -webkit-box;
