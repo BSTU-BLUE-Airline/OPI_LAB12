@@ -4,7 +4,30 @@
     border: 0
     box-sizing: border-box
     font-family: 'Nunito', sans-serif
+body
+    background-color: rgb(18,25,16)
+.horiz
+    position: fixed
+    z-index: 999
+    left: 20px
+    bottom: -18px
+    width: 200px
+    height: 200px
+.vertical
+    position: fixed
+    z-index: 999
+    top: 40px
+    right: 0
+    width: 200px
+    height: 200px
+.fonariki
+    position: fixed
+    top: 0
+    left: 10px
+    width: 200px
+    height: 150px
 .container
+    overflow-x: hidden
     display: flex
     flex-direction: column
     align-items: center
@@ -19,7 +42,7 @@
         max-width: 100%
         width: 100%
         min-height: 100vh
-        background: url(/img/fon.jpg)
+        background: url(/img/newyear.jpg)
         background-size: cover
         .nav
             width: 100%
@@ -70,10 +93,11 @@
             
             padding-top: 200px
             .header_title
+                max-width: 1200px
                 color: #FFF
                 text-align: center
                 text-shadow: 4px 2px 4px rgba(0, 0, 0, 0.25)
-                font-size: 32px
+                font-size: 28px
                 font-style: normal
                 font-weight: 700
                 line-height: normal
@@ -107,16 +131,17 @@
         flex-direction: column
         align-items: center
         .features_title
+            max-width: 1000px
             h2
-                color: var(--Dark, #2D2424)
+                color: white
                 text-align: center
                 font-size: 32px
                 font-style: normal
                 font-weight: 700
                 line-height: normal
         .features_subtitle
+            max-width: 700px
             padding-top: 12px
-            max-width: 920px
             width: 100%
             p
                 color: var(--Gray-4, #BDBDBD)
@@ -136,9 +161,13 @@
                 flex-direction: column
                 align-items: center
                 .icons_img
+                    width: 100px
+                    height: 100px
+                    object-fit: cover
+                    border-radius: 50%
                 .icons_title
                     margin-top: 24px
-                    color: var(--Caramel, #B85C38)
+                    color:  rgb(189, 58, 45)
                     text-align: center
                     font-size: 24px
                     font-style: normal
@@ -159,15 +188,15 @@
         justify-content: space-between
         max-width: 100%
         width: 100%
-        background: #E0C097
+        background-image: url(/img/elkafon.png)
+        background-size: contain
+        background-position: right
         overflow-y: hidden 
         .image
             img
                 width: 685px
                 height: 100%
                 object-fit: cover
-                // clip-path: ellipse(25% 40% at 50% 50%)
-                clip-path: polygon(50% 0%, 90% 0, 100% 35%, 100% 70%, 90% 100%, 50% 100%, 0 100%, 0% 70%, 0% 35%, 0 0)
         .block_comment
             margin-right: 150px
             .text_comment
@@ -176,85 +205,78 @@
                 max-width: 445px
                 width: 100%
                 .comment_title
-                    color: var(--Brown, #5C3D2E)
+                    position: relative
+                    color: white
                     font-size: 48px
                     font-style: normal
                     font-weight: 700
                     line-height: normal
+                    z-index: 2
                 .comment_subtitle
-                    color: var(--Brown, #5C3D2E)
+                    max-width: 340px
+                    margin-top: 20px
+                    position: relative
+                    color: #BDBDBD
                     font-size: 24px
                     font-style: normal
                     font-weight: 400
                     line-height: normal
+                    z-index: 2
     .product
         max-width: 100%
         width: 100%
-        display: flex
-        flex-direction: row
-        align-items: center
-        justify-content: space-between
-        background: #F7F9FC
-        padding: 50px
-        .product_text
-            margin-left: 165px
-            max-width: 445px
-            width: 100%
-            .product_title
-                color: var(--Gray-1, #333)
-                font-size: 48px
-                font-style: normal
-                font-weight: 700
-                line-height: normal
-            .product_subtitle
-                margin-top: 24px
-                color: var(--Gray-4, #BDBDBD)
-                font-size: 24px
-                font-style: normal
-                font-weight: 400
-                line-height: normal
+        padding-left: 50px
+        padding-right: 50px
+        padding-top: 100px
+        padding-bottom: 100px
+
         .product_container
+            display: flex
+            justify-content: space-between
+            width: 100%
+            .product_card
                 border-radius: 8px
-                background: #FFF
-                box-shadow: 4px 4px 40px 0px rgba(0, 0, 0, 0.12)
-                max-width: 350px
-                width: 350px
-                padding-bottom: 50px
-                margin-right: 100px
-                .product_card
-                    .card_image
-                        img
-                            border-top-left-radius: 8px
-                            border-top-right-radius: 8px
-                            width: 350px
-                            height: 250px
-        //            .card_text
-        //                padding: 30px
-        //                .card_title
-        //                    margin-top: 25px
-        //                    color: var(--Gray-1, #333)
-        //                    font-size: 30px
-        //                    font-style: normal
-        //                    font-weight: 700
-        //                    line-height: normal
-        //                .card_subtitle
-        //                    margin-top: 24px
-        //                    color: var(--Gray-4, #BDBDBD)
-        //                    font-size: 20px
-        //                    font-style: normal
-        //                    font-weight: 400
-        //                    line-height: normal
-        //                .card_btn
-        //                    padding-top: 20px
-        //                    .btn
-        //                        border-radius: 40px
-        //                        background: var(--Caramel, #B85C38)
-        //                        padding: 18px 32px
-        //                        color: #FFF
-        //                        font-size: 20px
-        //                        font-style: normal
-        //                        font-weight: 700
-        //                        line-height: normal
+                background: #16225c
+                max-width: 240px
+                box-shadow: 0 0 10px #16225c
+                .card_image
+                    img
+                        border-top-left-radius: 8px
+                        border-top-right-radius: 8px
+                        width: 100%
+                        height: 180px
+                .card_text
+                    display: flex
+                    flex-direction: column
+                    padding: 20px
+                    .card_title
+                        max-width: 200px
+                        margin-top: 10px
+                        color: white
+                        font-size: 24px
+                        font-style: normal
+                        font-weight: 700
+                        line-height: normal
+                    .card_subtitle
+                        max-width: 200px
+                        margin-top: 10px
+                        color: var(--Gray-4, #BDBDBD)
+                        font-size: 12px
+                        font-style: normal
+                        font-weight: 400
+                        line-height: normal
+                    .card_btn
+                        justify-self: flex-end
+                        padding-top: 20px
+                        .btn
+                            border-radius: 40px
+                            background: var(--Caramel, #B85C38)
+                            padding: 12px 24px
+                            color: #FFF
+                            font-size: 16px
+                            font-style: normal
+                            font-weight: 700
+                            line-height: normal
 
     .footer
         display: flex
@@ -262,7 +284,7 @@
         justify-content: center
         max-width: 100%
         width: 100%
-        background: #2D2424
+        background: #0c0e1c
         padding-top: 40px
         padding-bottom: 40px
         .footer_block
