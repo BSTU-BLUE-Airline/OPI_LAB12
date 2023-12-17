@@ -6,9 +6,8 @@ MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Weatherapp", "Weatherapp\Weatherapp.vcxproj", "{8DB5BBB5-7D33-4F2B-B6FA-40D89D0BFB47}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Элементы решения", "Элементы решения", "{BE2D93A5-6D85-4DF7-AC98-B1809212B596}"
-	ProjectSection(SolutionItems) = preProject
-		..\parserWeather\text.txt = ..\parserWeather\text.txt
-	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "test", "test\test.vcxproj", "{A290A62C-5D79-4B52-B727-FA64090412E4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -26,6 +25,14 @@ Global
 		{8DB5BBB5-7D33-4F2B-B6FA-40D89D0BFB47}.Release|x64.Build.0 = Release|x64
 		{8DB5BBB5-7D33-4F2B-B6FA-40D89D0BFB47}.Release|x86.ActiveCfg = Release|Win32
 		{8DB5BBB5-7D33-4F2B-B6FA-40D89D0BFB47}.Release|x86.Build.0 = Release|Win32
+		{A290A62C-5D79-4B52-B727-FA64090412E4}.Debug|x64.ActiveCfg = Debug|x64
+		{A290A62C-5D79-4B52-B727-FA64090412E4}.Debug|x64.Build.0 = Debug|x64
+		{A290A62C-5D79-4B52-B727-FA64090412E4}.Debug|x86.ActiveCfg = Debug|Win32
+		{A290A62C-5D79-4B52-B727-FA64090412E4}.Debug|x86.Build.0 = Debug|Win32
+		{A290A62C-5D79-4B52-B727-FA64090412E4}.Release|x64.ActiveCfg = Release|x64
+		{A290A62C-5D79-4B52-B727-FA64090412E4}.Release|x64.Build.0 = Release|x64
+		{A290A62C-5D79-4B52-B727-FA64090412E4}.Release|x86.ActiveCfg = Release|Win32
+		{A290A62C-5D79-4B52-B727-FA64090412E4}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

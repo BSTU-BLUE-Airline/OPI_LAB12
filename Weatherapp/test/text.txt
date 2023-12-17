@@ -1,0 +1,20 @@
+Berlin 8
+Buenos Aires 28
+Hong Kong 9
+Cairo 17
+Cape Town 17
+London 10
+Los Angeles 26
+Madrid 2
+Mexico City 19
+Moscow -5
+Mumbai 23
+New York 11
+Paris 4
+Beijing -21
+Sao Paulo 23
+Sydney 23
+Singapore 26
+Istanbul 6
+Tokyo 10
+Toronto 5

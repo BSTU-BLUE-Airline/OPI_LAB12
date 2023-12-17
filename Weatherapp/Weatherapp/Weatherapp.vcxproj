@@ -24,6 +24,7 @@
     <ProjectGuid>{8db5bbb5-7d33-4f2b-b6fa-40d89d0bfb47}</ProjectGuid>
     <RootNamespace>Weatherapp</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>RUSSIAN(don't work)</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
