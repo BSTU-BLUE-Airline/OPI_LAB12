@@ -3,6 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
     <link rel="stylesheet" href="css/fonts.css">
     <link rel="stylesheet" href="css/style.css">
     <link rel="stylesheet" href="css/adaptive.css">
@@ -16,47 +17,47 @@
         <div class="block header">
             <div class="nav">
                 <div class="logo">
-                    <p>Code Whisperers</p>
+                    <p data-aos="fade-down" data-aos-duration="300">Code Whisperers</p>
                 </div>
                 <div class="nav_elements">
                     <ul>
-                        <li>Team</li>
-                        <li>Comment</li>
-                        <li>Product</li>
+                        <a href="#Team" data-aos="fade-down" data-aos-duration="600"><li>Team</li></a>
+                        <a href="#Comment" data-aos="fade-down" data-aos-duration="900"><li>Comment</li></a>
+                        <a href="#Product" data-aos="fade-down" data-aos-duration="1200"><li>Product</li></a>
                     </ul>
                 </div>
-                <div class="btn">
-                    <button>Product</button>
+                <div class="btn" data-aos="fade-down" data-aos-duration="1500">
+                    <a href="#Product"><button>Product</button></a>
                 </div>
             </div>
             <div class="section_header">
-                <div class="header_title">
+                <div class="header_title" data-aos="fade-right" data-aos-duration="1800">
                     <h1>Code Whisperers: Empowering Innovation, Leading with Precision</h1>
                 </div>
-                <div class="header_subtitle">
+                <div class="header_subtitle" data-aos="fade-left" data-aos-duration="2100">
                     <p>Unleashing the Power of Silent Brilliance in Every Line</p>
                 </div>
                 <div class="header_btn">
-                    <button>Product</button>
+                    <a href="#Product"><button data-aos="fade-bottom" data-aos-duration="2400">Product</button></a>
                 </div>
             </div>
         </div>
-        <div class="block features">
-            <div class="features_title">
+        <div id="Team" class="block features">
+            <div class="features_title" data-aos="fade-down" data-aos-duration="300">
                 <h2>Without these people there would be no great mood and no applications created</h2>
             </div>
-            <div class="features_subtitle">
+            <div class="features_subtitle" data-aos="fade-down" data-aos-duration="600">
                 <p>Below is information about each person who contributed to the creation and support of completed software products</p>
             </div>
             <div class="features_icons">
-                <div class="block_icons">
+                <div class="block_icons" data-aos="fade-down" data-aos-duration="600">
                     <img class="icons_img" src="img/devochkaANDREW.jpg" alt="">
                     <p class="icons_title">Andrey</p>
                     <p class="icons_subtitle">Eget mattis viverra in lorem dictum
                         consequat etiam non pellentesque
                         mauris diamprice ore</p>
                 </div>
-                <div class="block_icons">
+                <div class="block_icons" data-aos="fade-down" data-aos-duration="800">
                     <img class="icons_img" src="img/rikuo.jpg" alt="">
                     <p class="icons_title">
                         Anton</p>
@@ -64,21 +65,21 @@
                         consequat etiam non pellentesque
                         mauris diamprice ore</p>
                 </div>
-                <div class="block_icons">
+                <div class="block_icons" data-aos="fade-down" data-aos-duration="1000">
                     <img class="icons_img" src="img/ILYAredan.png" alt="">
                     <p class="icons_title">Ilya</p>
                     <p class="icons_subtitle">Eget mattis viverra in lorem dictum 
                         consequat etiam non pellentesque
                         mauris diamprice ore</p>
                 </div>
-                <div class="block_icons">
+                <div class="block_icons" data-aos="fade-down" data-aos-duration="1200">
                     <img class="icons_img" src="img/ROMANsezam.jpg" alt="">
                     <p class="icons_title">Roma</p>
                     <p class="icons_subtitle">Eget mattis viverra in lorem dictum 
                         consequat etiam non pellentesque
                         mauris diamprice ore</p>
                 </div>
-                <div class="block_icons">
+                <div class="block_icons" data-aos="fade-down" data-aos-duration="1400">
                     <img class="icons_img" src="img/NIRITAshrek.jpg" alt="">
                     <p class="icons_title">Nikita</p>
                     <p class="icons_subtitle">Eget mattis viverra in lorem dictum 
@@ -87,21 +88,21 @@
                 </div>
             </div>
         </div>
-        <div class="block comment">
+        <div id="Comment" class="block comment">
             <div class="image">
                 <img src="img/Oboi.jpg" alt="">
             </div>
             <div class="block_comment">
 
                 <div class="text_comment">
-                    <h2 class="comment_title">Festive Code Whisperers</h2>
-                    <p class="comment_subtitle">Transforming lines into digital symphony, unveiling the New Year with a spark of Innovation.</p>
+                    <h2 class="comment_title" data-aos="fade-left" data-aos-duration="300">Festive Code Whisperers</h2>
+                    <p class="comment_subtitle" data-aos="fade-left" data-aos-duration="600">Transforming lines into digital symphony, unveiling the New Year with a spark of Innovation.</p>
                 </div>
             </div>
         </div>
-        <div class="block product">
+        <div id="Product" class="block product">
             <div class="product_container">
-                <div class="product_card">
+                <div data-aos="fade-up" data-aos-delay="100" data-aos-duration="600" class="product_card">
                     <div class="card_image">
                         <img src="img/card.jpg" alt="">
                     </div>
@@ -117,7 +118,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="product_card">
+                <div data-aos="fade-up" data-aos-delay="200" data-aos-duration="600" class="product_card">
                     <div class="card_image">
                         <img src="img/card.jpg" alt="">
                     </div>
@@ -133,7 +134,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="product_card">
+                <div data-aos="fade-up" data-aos-delay="300" data-aos-duration="600" class="product_card">
                     <div class="card_image">
                         <img src="img/card.jpg" alt="">
                     </div>
@@ -149,7 +150,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="product_card">
+                <div data-aos="fade-up" data-aos-delay="400" data-aos-duration="600" class="product_card">
                     <div class="card_image">
                         <img src="img/card.jpg" alt="">
                     </div>
@@ -165,7 +166,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="product_card">
+                <div data-aos="fade-up" data-aos-delay="500" data-aos-duration="600" class="product_card">
                     <div class="card_image">
                         <img src="img/Oboi.jpg" alt="">
                     </div>
@@ -189,6 +190,10 @@
             </div>
         </div>
     </div>
+    <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+    <script>
+        AOS.init();
+    </script>
 <!--    <script type="text/javascript" src="//code.jquery.com/jquery-1.11.0.min.js"></script>-->
 <!--    <script type="text/javascript" src="//code.jquery.com/jquery-migrate-1.2.1.min.js"></script>-->
 <!--    <script type="text/javascript" src="//cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js"></script>-->

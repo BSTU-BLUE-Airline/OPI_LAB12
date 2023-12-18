@@ -6,6 +6,8 @@
     font-family: 'Nunito', sans-serif
 body
     background-color: rgb(18,25,16)
+a
+    text-decoration: none
 .horiz
     position: fixed
     z-index: 999
@@ -70,14 +72,20 @@ body
                     align-items: center
                     list-style-type: none
                     width: max-content
-                    li:not(:first-child)
+                    a:not(:first-child)
                         margin-left: 50px
                     li
+                        cursor: pointer
                         color: #FFF
                         font-size: 18px
                         font-style: normal
                         font-weight: 400
-                        line-height: normal 
+                        line-height: normal
+                        transition-duration: 0.4s
+                        &:hover
+                            cursor: pointer
+                            color: #B85C38
+                            transition-duration: 0.4s
 
             .btn
                 button
@@ -89,6 +97,13 @@ body
                     font-style: normal
                     font-weight: 400
                     line-height: normal
+                    cursor: pointer
+                    transition-duration: 0.4s
+                button:hover
+                    background: #FFFFFF
+                    color: #B85C38
+                    cursor: pointer
+                    transition-duration: 0.4s
         .section_header
             
             padding-top: 200px
@@ -114,15 +129,23 @@ body
                 align-items: center
                 justify-content: center
                 margin-top: 40px
-                button
-                    border-radius: 40px
-                    background: #B85C38
-                    color: #FFF
-                    font-size: 20px
-                    font-style: normal
-                    font-weight: 700
-                    line-height: normal
-                    padding: 18px 32px
+                a
+                    button
+                        border-radius: 40px
+                        background: #B85C38
+                        color: #FFF
+                        font-size: 20px
+                        font-style: normal
+                        font-weight: 700
+                        line-height: normal
+                        padding: 18px 32px
+                        cursor: pointer
+                        transition-duration: 0.4s
+                    button:hover
+                        background: #FFFFFF
+                        color: #B85C38
+                        cursor: pointer
+                        transition-duration: 0.4s
     .features
         padding-top: 120px
         max-width: 1100px
@@ -198,7 +221,9 @@ body
                 height: 100%
                 object-fit: cover
         .block_comment
-            margin-right: 150px
+            width: 100%
+            display: flex
+            justify-content: center
             .text_comment
                 margin-top: 170px
                 margin-bottom: 170px
@@ -206,6 +231,7 @@ body
                 width: 100%
                 .comment_title
                     position: relative
+                    max-width: 340px
                     color: white
                     font-size: 48px
                     font-style: normal
@@ -248,7 +274,9 @@ body
                 .card_text
                     display: flex
                     flex-direction: column
+                    justify-content: space-between
                     padding: 20px
+                    min-height: 424px - 185.6px
                     .card_title
                         max-width: 200px
                         margin-top: 10px
@@ -266,7 +294,6 @@ body
                         font-weight: 400
                         line-height: normal
                     .card_btn
-                        justify-self: flex-end
                         padding-top: 20px
                         .btn
                             border-radius: 40px
@@ -277,6 +304,13 @@ body
                             font-style: normal
                             font-weight: 700
                             line-height: normal
+                            cursor: pointer
+                            transition-duration: 0.4s
+                        button:hover
+                            background: #FFFFFF
+                            color: #B85C38
+                            cursor: pointer
+                            transition-duration: 0.4s
 
     .footer
         display: flex
