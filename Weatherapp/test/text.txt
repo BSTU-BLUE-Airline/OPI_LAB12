@@ -1,20 +1,188 @@
-Berlin 8
-Buenos Aires 28
-Hong Kong 9
-Cairo 17
-Cape Town 17
-London 10
-Los Angeles 26
-Madrid 2
-Mexico City 19
-Moscow -5
-Mumbai 23
-New York 11
-Paris 4
-Beijing -21
-Sao Paulo 23
-Sydney 23
-Singapore 26
-Istanbul 6
-Tokyo 10
-Toronto 5
+Abu Dhabi 21 °C
+Madrid 4 °C
+Accra 34 °C
+Majuro 29 °C
+Addis Ababa 17 °C
+Male 27 °C
+Algiers 15 °C
+Managua 32 °C
+Alofi 27 °C
+Manama 21 °C
+Amman 11 °C
+Manila 25 °C
+Amsterdam 6 °C
+Maputo 27 °C
+Ankara 4 °C
+Mexico City 21 °C
+Antananarivo 19 °C
+Minsk 2 °C
+Apia 28 °C
+Monaco 9 °C
+Ashgabat 0 °C
+Monrovia 23 °C
+Astana -1 °C
+Montevideo 22 °C
+Asuncion * 32 °C
+Moscow 2 °C
+Athens 10 °C
+Muscat 24 °C
+Baghdad 13 °C
+N'Djamena 33 °C
+Baku 9 °C
+Nairobi 18 °C
+Bamako 21 °C
+Nassau 22 °C
+Bandar Seri Begawan 26 °C
+New Delhi 9 °C
+Bangkok 22 °C
+Ngerulmud 26 °C
+Bangui 28 °C
+Nicosia 13 °C
+Banjul 22 °C
+North Nicosia 13 °C
+Basseterre 26 °C
+Nuku'alofa 27 °C
+Beijing -13 °C
+Nuuk -8 °C
+Beirut 19 °C
+Oranjestad 29 °C
+Belgrade 8 °C
+Oslo -2 °C
+Belmopan 27 °C
+Ottawa -7 °C
+Berlin 6 °C
+Palikir 29 °C
+Bern 8 °C
+Panama 26 °C
+Bishkek -4 °C
+Paramaribo 31 °C
+Bissau 22 °C
+Paris 10 °C
+Bogota 19 °C
+Phnom Penh 25 °C
+Brades 27 °C
+Podgorica 7 °C
+Brasilia 22 °C
+Port-au-Prince 30 °C
+Bratislava 5 °C
+Port Louis 24 °C
+Brazzaville 27 °C
+Port Moresby 25 °C
+Bridgetown 26 °C
+Port of Spain 29 °C
+Brussels 10 °C
+Port Vila 29 °C
+Bucharest 1 °C
+Porto Novo 28 °C
+Budapest 5 °C
+Prague 4 °C
+Buenos Aires 25 °C
+Pretoria 25 °C
+Cairo 16 °C
+Pristina -2 °C
+Canberra * 15 °C
+Pyongyang -16 °C
+Caracas 34 °C
+Quito 16 °C
+Castries 28 °C
+Rabat * 11 °C
+Chișinău 2 °C
+Rarotonga 26 °C
+Conakry 26 °C
+Reykjavik -4 °C
+Copenhagen 4 °C
+Riga 1 °C
+Dakar 22 °C
+Riyadh 13 °C
+Damascus 6 °C
+Road Town 26 °C
+Dhaka 19 °C
+Rome 11 °C
+Djibouti 27 °C
+Roseau 29 °C
+Dodoma 32 °C
+Saint-Denis 25 °C
+Doha 20 °C
+Saint George's 29 °C
+Douglas 10 °C
+Saint John's 27 °C
+Dublin 10 °C
+San Jose 25 °C
+Dushanbe 2 °C
+San Juan 27 °C
+Freetown 26 °C
+San Marino 6 °C
+Funafuti 32 °C
+San Salvador 33 °C
+Gaborone 26 °C
+Santiago * 28 °C
+George Town (Cayman) 26 °C
+Santo Domingo 26 °C
+Georgetown (Guyana) 30 °C
+Sarajevo 2 °C
+Gibraltar 12 °C
+Seoul -14 °C
+Gitega 24 °C
+Singapore 26 °C
+Gizo 29 °C
+Skopje -2 °C
+Guatemala City 21 °C
+Sofia -2 °C
+Hamilton 17 °C
+Sri Jayawardenepura Kotte 26 °C
+Hanoi 11 °C
+Stanley 8 °C
+Harare 26 °C
+Stockholm 2 °C
+Havana 23 °C
+Suva 28 °C
+Helsinki 0 °C
+Taipei 10 °C
+Honiara 28 °C
+Tallinn 0 °C
+Islamabad 8 °C
+Tarawa 23 °C
+Jakarta 27 °C
+Tashkent 0 °C
+Jamestown 19 °C
+Tbilisi N/A
+Jerusalem 12 °C
+Tegucigalpa 24 °C
+Kampala 26 °C
+Tehran 5 °C
+Kathmandu 7 °C
+Thimphu -10 °C
+Kigali 20 °C
+Tirana 7 °C
+Kingston 29 °C
+Tokyo 3 °C
+Kingstown 28 °C
+Tunis 14 °C
+Kinshasa 27 °C
+Ulaanbaatar -37 °C
+Kuala Lumpur 25 °C
+Vaduz 10 °C
+Kuwait City 14 °C
+Valletta 14 °C
+Kyiv 1 °C
+Vatican City 11 °C
+Libreville 28 °C
+Victoria 28 °C
+Lilongwe 20 °C
+Vienna 12 °C
+Lima 24 °C
+Vientiane 16 °C
+Lisbon 11 °C
+Vilnius 2 °C
+Ljubljana 8 °C
+Warsaw 7 °C
+Lomé 33 °C
+Washington DC 8 °C
+London 11 °C
+Wellington * 16 °C
+Luanda 28 °C
+Windhoek 23 °C
+Lusaka 21 °C
+Yerevan -2 °C
+Luxembourg 8 °C
+Zagreb 5 °C
