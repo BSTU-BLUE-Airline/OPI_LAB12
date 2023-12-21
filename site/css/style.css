@@ -397,6 +397,8 @@ a {
   border-top-right-radius: 8px;
   width: 100%;
   height: 180px;
+  -o-object-fit: cover;
+     object-fit: cover;
 }
 .container .product .product_container .product_card .card_text {
   display: -webkit-box;

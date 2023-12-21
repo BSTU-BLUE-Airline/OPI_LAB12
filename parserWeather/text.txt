@@ -1,4 +1,8 @@
+<<<<<<< HEAD
+Abu Dhabi 21 °C
+=======
 ﻿Abu Dhabi 21 °C
+>>>>>>> 65cbefaa491aa16ec4370427a169427e071244a4
 Madrid 4 °C
 Accra 34 °C
 Majuro 29 °C
@@ -185,4 +189,8 @@ Windhoek 23 °C
 Lusaka 21 °C
 Yerevan -2 °C
 Luxembourg 8 °C
+<<<<<<< HEAD
 Zagreb 5 °C
+=======
+Zagreb 5 °C
+>>>>>>> 65cbefaa491aa16ec4370427a169427e071244a4
