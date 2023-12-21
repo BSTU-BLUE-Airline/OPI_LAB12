@@ -11,6 +11,10 @@ body {
   background-color: rgb(18, 25, 16);
 }
 
+a {
+  text-decoration: none;
+}
+
 .horiz {
   position: fixed;
   z-index: 999;
@@ -125,15 +129,24 @@ body {
   width: -moz-max-content;
   width: max-content;
 }
-.container .header .nav .nav_elements ul li:not(:first-child) {
+.container .header .nav .nav_elements ul a:not(:first-child) {
   margin-left: 50px;
 }
 .container .header .nav .nav_elements ul li {
+  cursor: pointer;
   color: #FFF;
   font-size: 18px;
   font-style: normal;
   font-weight: 400;
   line-height: normal;
+  -webkit-transition-duration: 0.4s;
+          transition-duration: 0.4s;
+}
+.container .header .nav .nav_elements ul li:hover {
+  cursor: pointer;
+  color: #B85C38;
+  -webkit-transition-duration: 0.4s;
+          transition-duration: 0.4s;
 }
 .container .header .nav .btn button {
   border-radius: 40px;
@@ -144,6 +157,16 @@ body {
   font-style: normal;
   font-weight: 400;
   line-height: normal;
+  cursor: pointer;
+  -webkit-transition-duration: 0.4s;
+          transition-duration: 0.4s;
+}
+.container .header .nav .btn button:hover {
+  background: #FFFFFF;
+  color: #B85C38;
+  cursor: pointer;
+  -webkit-transition-duration: 0.4s;
+          transition-duration: 0.4s;
 }
 .container .header .section_header {
   padding-top: 200px;
@@ -179,7 +202,7 @@ body {
           justify-content: center;
   margin-top: 40px;
 }
-.container .header .section_header .header_btn button {
+.container .header .section_header .header_btn a button {
   border-radius: 40px;
   background: #B85C38;
   color: #FFF;
@@ -188,6 +211,16 @@ body {
   font-weight: 700;
   line-height: normal;
   padding: 18px 32px;
+  cursor: pointer;
+  -webkit-transition-duration: 0.4s;
+          transition-duration: 0.4s;
+}
+.container .header .section_header .header_btn a button:hover {
+  background: #FFFFFF;
+  color: #B85C38;
+  cursor: pointer;
+  -webkit-transition-duration: 0.4s;
+          transition-duration: 0.4s;
 }
 .container .features {
   padding-top: 120px;
@@ -300,7 +333,13 @@ body {
      object-fit: cover;
 }
 .container .comment .block_comment {
-  margin-right: 150px;
+  width: 100%;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
 }
 .container .comment .block_comment .text_comment {
   margin-top: 170px;
@@ -310,6 +349,7 @@ body {
 }
 .container .comment .block_comment .text_comment .comment_title {
   position: relative;
+  max-width: 340px;
   color: white;
   font-size: 48px;
   font-style: normal;
@@ -366,7 +406,11 @@ body {
   -webkit-box-direction: normal;
       -ms-flex-direction: column;
           flex-direction: column;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
   padding: 20px;
+  min-height: 238.4px;
 }
 .container .product .product_container .product_card .card_text .card_title {
   max-width: 200px;
@@ -387,7 +431,6 @@ body {
   line-height: normal;
 }
 .container .product .product_container .product_card .card_text .card_btn {
-  justify-self: flex-end;
   padding-top: 20px;
 }
 .container .product .product_container .product_card .card_text .card_btn .btn {
@@ -399,6 +442,16 @@ body {
   font-style: normal;
   font-weight: 700;
   line-height: normal;
+  cursor: pointer;
+  -webkit-transition-duration: 0.4s;
+          transition-duration: 0.4s;
+}
+.container .product .product_container .product_card .card_text .card_btn button:hover {
+  background: #FFFFFF;
+  color: #B85C38;
+  cursor: pointer;
+  -webkit-transition-duration: 0.4s;
+          transition-duration: 0.4s;
 }
 .container .footer {
   display: -webkit-box;
