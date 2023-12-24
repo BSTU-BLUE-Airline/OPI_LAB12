@@ -1,7 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="c7246a85-632b-4df0-8716-0dd17f081320" name="Changes" comment="" />
+    <list default="true" id="c7246a85-632b-4df0-8716-0dd17f081320" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../Weatherapp/.vs/Weatherapp/FileContentIndex/22ac2398-fbd7-4d3b-8b8a-d33b40423c6f.vsidx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Weatherapp/.vs/Weatherapp/FileContentIndex/30bfc7dc-d301-4b16-8139-6a09484365d5.vsidx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Weatherapp/.vs/Weatherapp/FileContentIndex/63734b24-804d-43ee-982e-839f2f134f3f.vsidx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Weatherapp/.vs/Weatherapp/FileContentIndex/9bcdc1fa-2843-4857-ae83-85e9efdf9222.vsidx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Weatherapp/.vs/Weatherapp/FileContentIndex/c2fa27ed-58bc-43f8-b691-cc565e738bbe.vsidx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Weatherapp/.vs/Weatherapp/v17/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/../Weatherapp/.vs/Weatherapp/v17/.suo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Weatherapp/.vs/Weatherapp/v17/Browse.VC.db" beforeDir="false" afterPath="$PROJECT_DIR$/../Weatherapp/.vs/Weatherapp/v17/Browse.VC.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../parser/.vs/parser/FileContentIndex/5332de14-0b7d-4c19-b3d0-c92df82c1721.vsidx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../parser/.vs/parser/FileContentIndex/8d0b5bd0-7bb9-4d07-94b2-dfd62e95d990.vsidx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../parser/.vs/parser/FileContentIndex/a33723d9-dc1e-4191-9c4a-7bfb0292b3a0.vsidx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../parser/.vs/parser/v17/.wsuo" beforeDir="false" afterPath="$PROJECT_DIR$/../parser/.vs/parser/v17/.wsuo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../parser/.vs/slnx.sqlite" beforeDir="false" afterPath="$PROJECT_DIR$/../parser/.vs/slnx.sqlite" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../parser/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../parser/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../parser/text.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../parser/text.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/text.txt" beforeDir="false" afterPath="$PROJECT_DIR$/text.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../site/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/../site/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../site/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../site/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../site/sass/style.sass" beforeDir="false" afterPath="$PROJECT_DIR$/../site/sass/style.sass" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../word/wordgame.py" beforeDir="false" afterPath="$PROJECT_DIR$/../word/wordgame.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,9 +35,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 2
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="2ZbBoUvvaIkkWjF94rOKuoqcw4K" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -20,11 +45,14 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Node.js.index.js.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
@@ -38,6 +66,7 @@
       <option name="presentableId" value="Default" />
       <updated>1702681073596</updated>
       <workItem from="1702681074676" duration="31000" />
+      <workItem from="1703193857616" duration="4318000" />
     </task>
     <servers />
   </component>
