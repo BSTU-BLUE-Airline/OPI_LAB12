@@ -1,0 +1,62 @@
+﻿  lab.cpp
+C:\Users\Дождиков Роман\Desktop\lab12(X,O)\lab12(X,O)\lab12(X,O)\lab.cpp(22,48): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Дождиков Роман\Desktop\lab12(X,O)\lab12(X,O)\lab12(X,O)\lab.cpp(22,39): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Дождиков Роман\Desktop\lab12(X,O)\lab12(X,O)\lab12(X,O)\lab.cpp(48,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Дождиков Роман\Desktop\lab12(X,O)\lab12(X,O)\lab12(X,O)\lab.cpp(60,27): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Дождиков Роман\Desktop\lab12(X,O)\lab12(X,O)\lab12(X,O)\lab.cpp(88,58): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+C:\Users\Дождиков Роман\Desktop\lab12(X,O)\lab12(X,O)\lab12(X,O)\lab.cpp(88,58): warning C4244:         with
+C:\Users\Дождиков Роман\Desktop\lab12(X,O)\lab12(X,O)\lab12(X,O)\lab.cpp(88,58): warning C4244:         [
+C:\Users\Дождиков Роман\Desktop\lab12(X,O)\lab12(X,O)\lab12(X,O)\lab.cpp(88,58): warning C4244:             T=int
+C:\Users\Дождиков Роман\Desktop\lab12(X,O)\lab12(X,O)\lab12(X,O)\lab.cpp(88,58): warning C4244:         ]
+C:\Users\Дождиков Роман\Desktop\lab12(X,O)\lab12(X,O)\lab12(X,O)\lab.cpp(88,58): warning C4244:         and
+C:\Users\Дождиков Роман\Desktop\lab12(X,O)\lab12(X,O)\lab12(X,O)\lab.cpp(88,58): warning C4244:         [
+C:\Users\Дождиков Роман\Desktop\lab12(X,O)\lab12(X,O)\lab12(X,O)\lab.cpp(88,58): warning C4244:             T=float
+C:\Users\Дождиков Роман\Desktop\lab12(X,O)\lab12(X,O)\lab12(X,O)\lab.cpp(88,58): warning C4244:         ]
+C:\Users\Дождиков Роман\Desktop\lab12(X,O)\lab12(X,O)\lab12(X,O)\lab.cpp(88,51): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+C:\Users\Дождиков Роман\Desktop\lab12(X,O)\lab12(X,O)\lab12(X,O)\lab.cpp(88,51): warning C4244:         with
+C:\Users\Дождиков Роман\Desktop\lab12(X,O)\lab12(X,O)\lab12(X,O)\lab.cpp(88,51): warning C4244:         [
+C:\Users\Дождиков Роман\Desktop\lab12(X,O)\lab12(X,O)\lab12(X,O)\lab.cpp(88,51): warning C4244:             T=int
+C:\Users\Дождиков Роман\Desktop\lab12(X,O)\lab12(X,O)\lab12(X,O)\lab.cpp(88,51): warning C4244:         ]
+C:\Users\Дождиков Роман\Desktop\lab12(X,O)\lab12(X,O)\lab12(X,O)\lab.cpp(88,51): warning C4244:         and
+C:\Users\Дождиков Роман\Desktop\lab12(X,O)\lab12(X,O)\lab12(X,O)\lab.cpp(88,51): warning C4244:         [
+C:\Users\Дождиков Роман\Desktop\lab12(X,O)\lab12(X,O)\lab12(X,O)\lab.cpp(88,51): warning C4244:             T=float
+C:\Users\Дождиков Роман\Desktop\lab12(X,O)\lab12(X,O)\lab12(X,O)\lab.cpp(88,51): warning C4244:         ]
+C:\Users\Дождиков Роман\Desktop\lab12(X,O)\lab12(X,O)\lab12(X,O)\lab.cpp(93,66): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+C:\Users\Дождиков Роман\Desktop\lab12(X,O)\lab12(X,O)\lab12(X,O)\lab.cpp(93,66): warning C4244:         with
+C:\Users\Дождиков Роман\Desktop\lab12(X,O)\lab12(X,O)\lab12(X,O)\lab.cpp(93,66): warning C4244:         [
+C:\Users\Дождиков Роман\Desktop\lab12(X,O)\lab12(X,O)\lab12(X,O)\lab.cpp(93,66): warning C4244:             T=int
+C:\Users\Дождиков Роман\Desktop\lab12(X,O)\lab12(X,O)\lab12(X,O)\lab.cpp(93,66): warning C4244:         ]
+C:\Users\Дождиков Роман\Desktop\lab12(X,O)\lab12(X,O)\lab12(X,O)\lab.cpp(93,66): warning C4244:         and
+C:\Users\Дождиков Роман\Desktop\lab12(X,O)\lab12(X,O)\lab12(X,O)\lab.cpp(93,66): warning C4244:         [
+C:\Users\Дождиков Роман\Desktop\lab12(X,O)\lab12(X,O)\lab12(X,O)\lab.cpp(93,66): warning C4244:             T=float
+C:\Users\Дождиков Роман\Desktop\lab12(X,O)\lab12(X,O)\lab12(X,O)\lab.cpp(93,66): warning C4244:         ]
+C:\Users\Дождиков Роман\Desktop\lab12(X,O)\lab12(X,O)\lab12(X,O)\lab.cpp(93,59): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+C:\Users\Дождиков Роман\Desktop\lab12(X,O)\lab12(X,O)\lab12(X,O)\lab.cpp(93,59): warning C4244:         with
+C:\Users\Дождиков Роман\Desktop\lab12(X,O)\lab12(X,O)\lab12(X,O)\lab.cpp(93,59): warning C4244:         [
+C:\Users\Дождиков Роман\Desktop\lab12(X,O)\lab12(X,O)\lab12(X,O)\lab.cpp(93,59): warning C4244:             T=int
+C:\Users\Дождиков Роман\Desktop\lab12(X,O)\lab12(X,O)\lab12(X,O)\lab.cpp(93,59): warning C4244:         ]
+C:\Users\Дождиков Роман\Desktop\lab12(X,O)\lab12(X,O)\lab12(X,O)\lab.cpp(93,59): warning C4244:         and
+C:\Users\Дождиков Роман\Desktop\lab12(X,O)\lab12(X,O)\lab12(X,O)\lab.cpp(93,59): warning C4244:         [
+C:\Users\Дождиков Роман\Desktop\lab12(X,O)\lab12(X,O)\lab12(X,O)\lab.cpp(93,59): warning C4244:             T=float
+C:\Users\Дождиков Роман\Desktop\lab12(X,O)\lab12(X,O)\lab12(X,O)\lab.cpp(93,59): warning C4244:         ]
+C:\Users\Дождиков Роман\Desktop\lab12(X,O)\lab12(X,O)\lab12(X,O)\lab.cpp(104,54): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+C:\Users\Дождиков Роман\Desktop\lab12(X,O)\lab12(X,O)\lab12(X,O)\lab.cpp(104,54): warning C4244:         with
+C:\Users\Дождиков Роман\Desktop\lab12(X,O)\lab12(X,O)\lab12(X,O)\lab.cpp(104,54): warning C4244:         [
+C:\Users\Дождиков Роман\Desktop\lab12(X,O)\lab12(X,O)\lab12(X,O)\lab.cpp(104,54): warning C4244:             T=int
+C:\Users\Дождиков Роман\Desktop\lab12(X,O)\lab12(X,O)\lab12(X,O)\lab.cpp(104,54): warning C4244:         ]
+C:\Users\Дождиков Роман\Desktop\lab12(X,O)\lab12(X,O)\lab12(X,O)\lab.cpp(104,54): warning C4244:         and
+C:\Users\Дождиков Роман\Desktop\lab12(X,O)\lab12(X,O)\lab12(X,O)\lab.cpp(104,54): warning C4244:         [
+C:\Users\Дождиков Роман\Desktop\lab12(X,O)\lab12(X,O)\lab12(X,O)\lab.cpp(104,54): warning C4244:             T=float
+C:\Users\Дождиков Роман\Desktop\lab12(X,O)\lab12(X,O)\lab12(X,O)\lab.cpp(104,54): warning C4244:         ]
+C:\Users\Дождиков Роман\Desktop\lab12(X,O)\lab12(X,O)\lab12(X,O)\lab.cpp(104,47): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+C:\Users\Дождиков Роман\Desktop\lab12(X,O)\lab12(X,O)\lab12(X,O)\lab.cpp(104,47): warning C4244:         with
+C:\Users\Дождиков Роман\Desktop\lab12(X,O)\lab12(X,O)\lab12(X,O)\lab.cpp(104,47): warning C4244:         [
+C:\Users\Дождиков Роман\Desktop\lab12(X,O)\lab12(X,O)\lab12(X,O)\lab.cpp(104,47): warning C4244:             T=int
+C:\Users\Дождиков Роман\Desktop\lab12(X,O)\lab12(X,O)\lab12(X,O)\lab.cpp(104,47): warning C4244:         ]
+C:\Users\Дождиков Роман\Desktop\lab12(X,O)\lab12(X,O)\lab12(X,O)\lab.cpp(104,47): warning C4244:         and
+C:\Users\Дождиков Роман\Desktop\lab12(X,O)\lab12(X,O)\lab12(X,O)\lab.cpp(104,47): warning C4244:         [
+C:\Users\Дождиков Роман\Desktop\lab12(X,O)\lab12(X,O)\lab12(X,O)\lab.cpp(104,47): warning C4244:             T=float
+C:\Users\Дождиков Роман\Desktop\lab12(X,O)\lab12(X,O)\lab12(X,O)\lab.cpp(104,47): warning C4244:         ]
+C:\Users\Дождиков Роман\Desktop\lab12(X,O)\lab12(X,O)\lab12(X,O)\lab.cpp(130,27): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Дождиков Роман\Desktop\lab12(X,O)\lab12(X,O)\lab12(X,O)\lab.cpp(136,24): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  lab12(X,O).vcxproj -> C:\Users\Дождиков Роман\Desktop\lab12(X,O)\lab12(X,O)\Debug\lab12(X,O).exe
