@@ -7,7 +7,7 @@ int main() {
     setlocale(LC_ALL, "English");
 
     while (true) {
-       
+        std::cout << "Weather app";
         std::cout << "Enter the city name: ";
         std::string cityName;
         std::getline(std::cin, cityName);
